@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "Brian Ndickers",
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
