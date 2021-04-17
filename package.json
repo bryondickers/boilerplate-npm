@@ -1,7 +1,7 @@
 {
 	"name": "Brian Ndickers",
 	"license":"MIT",
-	"version":"2.1.0"
+	"version":"2.10.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
