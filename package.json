@@ -1,8 +1,9 @@
 {
 	"name": "Brian Ndickers",
 	"license":"MIT",
-	"version":"2.10.2",
-	"dependencies": {
+		"dependencies": {
+		"moments" 
+		"version":"2.10.2",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
